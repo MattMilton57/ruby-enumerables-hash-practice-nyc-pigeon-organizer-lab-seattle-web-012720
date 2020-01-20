@@ -12,4 +12,3 @@ def nyc_pigeon_organizer(data)
   hash_list
   # write your code here!
 end
-© 2020 GitHub, Inc.
